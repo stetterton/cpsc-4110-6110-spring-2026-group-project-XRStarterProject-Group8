@@ -976,6 +976,11 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 1511620006682241635, guid: a568cd48fbbf4ae449a9e2d579fbcb62, type: 3}
   m_PrefabInstance: {fileID: 32513357}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &32513359 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 9110701814316364530, guid: a568cd48fbbf4ae449a9e2d579fbcb62, type: 3}
+  m_PrefabInstance: {fileID: 32513357}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &51275839
 GameObject:
   m_ObjectHideFlags: 0
@@ -5061,11 +5066,6 @@ MonoBehaviour:
   m_SelectedFaces: 
   m_SelectedEdges: []
   m_SelectedVertices: 
---- !u!1 &126498131 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1993233787419474882, guid: c0bf1ed2085450c428938432e041c372, type: 3}
-  m_PrefabInstance: {fileID: 1105168078}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &129433151
 GameObject:
   m_ObjectHideFlags: 0
@@ -8298,11 +8298,6 @@ Mesh:
       - serializedVersion: 1
         m_IndexStart: 0
         m_IndexCount: 0
---- !u!1 &233423848 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 2080125792073502847, guid: 2b4ba9b3dc4599c488794c34793f9297, type: 3}
-  m_PrefabInstance: {fileID: 1247339292}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &234931830
 GameObject:
   m_ObjectHideFlags: 0
@@ -9662,37 +9657,6 @@ Mesh:
       - serializedVersion: 1
         m_IndexStart: 0
         m_IndexCount: 0
---- !u!1 &266029294
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 266029295}
-  m_Layer: 0
-  m_Name: AttachPoint
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &266029295
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 266029294}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 1401740156}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!43 &270602054
 Mesh:
   m_ObjectHideFlags: 0
@@ -14320,6 +14284,11 @@ MonoBehaviour:
   m_SelectedFaces: 
   m_SelectedEdges: []
   m_SelectedVertices: 
+--- !u!1 &355172273 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1993233787419474882, guid: c0bf1ed2085450c428938432e041c372, type: 3}
+  m_PrefabInstance: {fileID: 1284693482}
+  m_PrefabAsset: {fileID: 0}
 --- !u!43 &364193367
 Mesh:
   m_ObjectHideFlags: 0
@@ -18915,11 +18884,6 @@ Mesh:
       - serializedVersion: 1
         m_IndexStart: 0
         m_IndexCount: 0
---- !u!1 &477232994 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 3822834430986289902, guid: a20dc526241b4dc42b5539fe7a9ac726, type: 3}
-  m_PrefabInstance: {fileID: 1931211326}
-  m_PrefabAsset: {fileID: 0}
 --- !u!43 &505721095
 Mesh:
   m_ObjectHideFlags: 0
@@ -29262,10 +29226,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 735247818}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0b7f53ca170b3384d95b718f3f206845, type: 3}
+  m_Script: {fileID: 11500000, guid: 9337c47a7036f4444b68763e59f85b77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GhostGridSnap
-  realVisual: {fileID: 1759355212}
+  realVisual: {fileID: 32513359}
   ghostVisual: {fileID: 1857357487}
   cellSize: 1
   gridY: 0
@@ -31194,11 +31158,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 795886129}
   m_Mesh: {fileID: 1517539819122556687, guid: a10437884ef100049b07b218beb16c91, type: 3}
---- !u!1 &806748029 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1854980553407587575, guid: 2abb32a9826879e40ba4b87a1fe9a1c7, type: 3}
-  m_PrefabInstance: {fileID: 1401740155}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &808901211
 GameObject:
   m_ObjectHideFlags: 0
@@ -35810,6 +35769,11 @@ MonoBehaviour:
   m_SelectedFaces: 
   m_SelectedEdges: []
   m_SelectedVertices: 
+--- !u!1 &915137273 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1993233787419474882, guid: c0bf1ed2085450c428938432e041c372, type: 3}
+  m_PrefabInstance: {fileID: 1105168078}
+  m_PrefabAsset: {fileID: 0}
 --- !u!43 &926617476
 Mesh:
   m_ObjectHideFlags: 0
@@ -45279,10 +45243,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 1072916595}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0b7f53ca170b3384d95b718f3f206845, type: 3}
+  m_Script: {fileID: 11500000, guid: 9337c47a7036f4444b68763e59f85b77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GhostGridSnap
-  realVisual: {fileID: 126498131}
+  realVisual: {fileID: 915137273}
   ghostVisual: {fileID: 1583439627}
   cellSize: 1
   gridY: 0
@@ -49162,10 +49126,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 510699480}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0b7f53ca170b3384d95b718f3f206845, type: 3}
+  m_Script: {fileID: 11500000, guid: 9337c47a7036f4444b68763e59f85b77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GhostGridSnap
-  realVisual: {fileID: 233423848}
+  realVisual: {fileID: 1300861982}
   ghostVisual: {fileID: 1419512683}
   cellSize: 1
   gridY: 0
@@ -50351,10 +50315,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 220047182}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0b7f53ca170b3384d95b718f3f206845, type: 3}
+  m_Script: {fileID: 11500000, guid: 9337c47a7036f4444b68763e59f85b77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GhostGridSnap
-  realVisual: {fileID: 1870358166}
+  realVisual: {fileID: 355172273}
   ghostVisual: {fileID: 1142024521}
   cellSize: 1
   gridY: 0
@@ -51791,6 +51755,11 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1297626034}
   m_CullTransparentMesh: 1
+--- !u!1 &1300861982 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2080125792073502847, guid: 2b4ba9b3dc4599c488794c34793f9297, type: 3}
+  m_PrefabInstance: {fileID: 1247339292}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1308092669
 GameObject:
   m_ObjectHideFlags: 0
@@ -54807,9 +54776,6 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 5929692974132220351, guid: 2abb32a9826879e40ba4b87a1fe9a1c7, type: 3}
       insertIndex: -1
       addedObject: {fileID: 439873674}
-    - targetCorrespondingSourceObject: {fileID: 5929692974132220351, guid: 2abb32a9826879e40ba4b87a1fe9a1c7, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 266029295}
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 7372601709251057266, guid: 2abb32a9826879e40ba4b87a1fe9a1c7, type: 3}
       insertIndex: -1
@@ -54829,6 +54795,11 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 5929692974132220351, guid: 2abb32a9826879e40ba4b87a1fe9a1c7, type: 3}
   m_PrefabInstance: {fileID: 1401740155}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1401740157 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1854980553407587575, guid: 2abb32a9826879e40ba4b87a1fe9a1c7, type: 3}
+  m_PrefabInstance: {fileID: 1401740155}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1401740158 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7372601709251057266, guid: 2abb32a9826879e40ba4b87a1fe9a1c7, type: 3}
@@ -54843,10 +54814,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 1401740158}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0b7f53ca170b3384d95b718f3f206845, type: 3}
+  m_Script: {fileID: 11500000, guid: 9337c47a7036f4444b68763e59f85b77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
-  realVisual: {fileID: 806748029}
+  realVisual: {fileID: 1401740157}
   ghostVisual: {fileID: 439873673}
   cellSize: 1
   gridY: 0
@@ -59285,11 +59256,6 @@ Transform:
   - {fileID: 1738340051}
   m_Father: {fileID: 1764745212}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &1542142739 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 8397518296561259795, guid: bc60420ae8b833d41b28c55fd59b53b7, type: 3}
-  m_PrefabInstance: {fileID: 2055206603}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1542857198
 GameObject:
   m_ObjectHideFlags: 0
@@ -62357,10 +62323,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 180289701}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0b7f53ca170b3384d95b718f3f206845, type: 3}
+  m_Script: {fileID: 11500000, guid: 9337c47a7036f4444b68763e59f85b77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GhostGridSnap
-  realVisual: {fileID: 2139058413}
+  realVisual: {fileID: 1606017319}
   ghostVisual: {fileID: 584262640}
   cellSize: 1
   gridY: 0
@@ -62520,6 +62486,11 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 122
   m_CollisionDetection: 0
+--- !u!1 &1606017319 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4365386846213258744, guid: 382bdebba7a4fec4fa2aea294ca05def, type: 3}
+  m_PrefabInstance: {fileID: 1606017314}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1618695480
 GameObject:
   m_ObjectHideFlags: 0
@@ -101671,11 +101642,6 @@ MonoBehaviour:
   m_SelectedFaces: 
   m_SelectedEdges: []
   m_SelectedVertices: 
---- !u!1 &1759355212 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 9110701814316364530, guid: a568cd48fbbf4ae449a9e2d579fbcb62, type: 3}
-  m_PrefabInstance: {fileID: 32513357}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1764745211
 GameObject:
   m_ObjectHideFlags: 0
@@ -107061,11 +107027,6 @@ MonoBehaviour:
   m_SelectedFaces: 
   m_SelectedEdges: []
   m_SelectedVertices: 
---- !u!1 &1870358166 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1993233787419474882, guid: c0bf1ed2085450c428938432e041c372, type: 3}
-  m_PrefabInstance: {fileID: 1284693482}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1873271279
 GameObject:
   m_ObjectHideFlags: 0
@@ -110544,6 +110505,11 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 3334714537127372802, guid: a20dc526241b4dc42b5539fe7a9ac726, type: 3}
   m_PrefabInstance: {fileID: 1931211326}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1931211328 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3822834430986289902, guid: a20dc526241b4dc42b5539fe7a9ac726, type: 3}
+  m_PrefabInstance: {fileID: 1931211326}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1943889307
 GameObject:
   m_ObjectHideFlags: 0
@@ -113001,10 +112967,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 1991209842}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0b7f53ca170b3384d95b718f3f206845, type: 3}
+  m_Script: {fileID: 11500000, guid: 9337c47a7036f4444b68763e59f85b77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GhostGridSnap
-  realVisual: {fileID: 477232994}
+  realVisual: {fileID: 1931211328}
   ghostVisual: {fileID: 445652825}
   cellSize: 1
   gridY: 0
@@ -115904,10 +115870,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 667305459}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0b7f53ca170b3384d95b718f3f206845, type: 3}
+  m_Script: {fileID: 11500000, guid: 9337c47a7036f4444b68763e59f85b77, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GhostGridSnap
-  realVisual: {fileID: 1542142739}
+  realVisual: {fileID: 2055206608}
   ghostVisual: {fileID: 379626780}
   cellSize: 1
   gridY: 0
@@ -116067,6 +116033,11 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 122
   m_CollisionDetection: 0
+--- !u!1 &2055206608 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8397518296561259795, guid: bc60420ae8b833d41b28c55fd59b53b7, type: 3}
+  m_PrefabInstance: {fileID: 2055206603}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &2068582532
 GameObject:
   m_ObjectHideFlags: 0
@@ -123763,11 +123734,6 @@ Transform:
   - {fileID: 1065033063}
   m_Father: {fileID: 1764745212}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &2139058413 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 4365386846213258744, guid: 382bdebba7a4fec4fa2aea294ca05def, type: 3}
-  m_PrefabInstance: {fileID: 1606017314}
-  m_PrefabAsset: {fileID: 0}
 --- !u!43 &2141702915
 Mesh:
   m_ObjectHideFlags: 0
